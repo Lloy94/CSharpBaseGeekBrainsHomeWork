@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplexClass", "ComplexClas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddSum2", "OddSum2\OddSum2.csproj", "{3B888860-4430-44B7-97D3-86A24C67D624}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractions", "Fractions\Fractions.csproj", "{A282C755-5582-4BB2-9C66-26E9A5E8200E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fractions", "Fractions\Fractions.csproj", "{A282C755-5582-4BB2-9C66-26E9A5E8200E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WF_Udvoitel", "WF_Udvoitel\WF_Udvoitel.csproj", "{DC8323C3-2605-4746-BC32-D7A7A94C0291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumGuess", "NumGuess\NumGuess.csproj", "{A1A4565E-C982-4EFC-AED3-17923C8AC14B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{A282C755-5582-4BB2-9C66-26E9A5E8200E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A282C755-5582-4BB2-9C66-26E9A5E8200E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A282C755-5582-4BB2-9C66-26E9A5E8200E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8323C3-2605-4746-BC32-D7A7A94C0291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8323C3-2605-4746-BC32-D7A7A94C0291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8323C3-2605-4746-BC32-D7A7A94C0291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8323C3-2605-4746-BC32-D7A7A94C0291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A4565E-C982-4EFC-AED3-17923C8AC14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A4565E-C982-4EFC-AED3-17923C8AC14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A4565E-C982-4EFC-AED3-17923C8AC14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A4565E-C982-4EFC-AED3-17923C8AC14B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
